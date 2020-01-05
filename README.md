@@ -1,5 +1,7 @@
 # setup_webpack_4_41_5
-Beginner how to setup Webpack npm install plugin that it's needed
+Beginner how to setup Webpack npm install plugin that it's needed.
+
+Html, Javascript, Sass, Images
 
 please create folder
 
