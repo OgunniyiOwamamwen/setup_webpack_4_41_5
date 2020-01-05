@@ -5,6 +5,7 @@ please create folder
 
 mkdir (src)
 mkdir (images)
+mkdir (styles)
 npm
 ............
 1. npm init -y
