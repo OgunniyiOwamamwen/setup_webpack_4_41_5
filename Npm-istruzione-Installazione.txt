@@ -1,0 +1,12 @@
+WebPack v4.41.5
+console programmazione
+
+per favore crea una cartella
+mkdir (src)
+............
+npm
+............
+1. npm init -y
+2. npm i -D webpack webpack-cli
+3. npm i -D html-webpack-plugin html-loader
+4. npm i -D webpack-dev-server
